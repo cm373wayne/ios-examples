@@ -1,3 +1,6 @@
 [submodule "Charts"]
 	path = Charts
 	url = git://github.com/danielgindi/Charts.git
+[submodule "ios-fontawesome"]
+	path = ios-fontawesome
+	url = git://github.com/alexdrone/ios-fontawesome
